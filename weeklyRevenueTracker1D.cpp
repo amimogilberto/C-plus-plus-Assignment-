@@ -1,3 +1,9 @@
+//gilberto amimo otieno
+//ct101/g/26584/25
+//group b
+//computer science kyu
+//oop1
+
 #include <iostream>
 using namespace std;
 
